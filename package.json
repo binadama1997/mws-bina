@@ -1,0 +1,16 @@
+{
+  "name": "mws-bina",
+  "version": "1.0.0",
+  "description": "PWA Project from Google Developers Kejar Bandung",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "fetch-json": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bina Damareksa",
+  "license": "ISC"
+}
